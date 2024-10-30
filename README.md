@@ -4,7 +4,7 @@
 <div>
 <h3 align="center">  A relentless pursuer of growth and learning. Currently pursuing B.Tech @ JSS Noida. <br> 
 <br>
-|"Transforming Ideas into Seamless Digital Experiences" |<hr>
+|"Transforming Ideas into Seamless Digital Experiences"|<hr>
 </h3>
 
 
