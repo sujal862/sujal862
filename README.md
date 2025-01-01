@@ -11,7 +11,7 @@
 
 
 
-- I’m currently learning **C++, Data Structure and Algorithms and Full Stack Development.** 
+- I’m currently learning **Data Structure and Algorithms and Full Stack Development.** 
 
 - 💬 Ask me about **Development and Data Structures.**
 
