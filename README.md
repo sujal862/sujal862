@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Open-source contributions**
 
-- 📫 Reach me @ sujalagr20@gmail.com
+- 📫 Reach me @ rajsujal2004@gmail.com
 
 - ⚡ Fun fact : **I believe creativity and humor make coding more fun! 😄**
 
