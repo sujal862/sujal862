@@ -13,7 +13,7 @@
 
 - I’m currently learning **C++, Data Structure and Algorithms and Full Stack Development.** 
 
-- 💬 Ask me about **C++ and Data Structures.**
+- 💬 Ask me about **Development and Data Structures.**
 
 - 🤝 I’m looking for help with **Open-source contributions**
 
@@ -33,30 +33,26 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujal20/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05CC47?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sujalae706/)
 
-## My Tech Stack
+# 💻 My Tech Stack:
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks and Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)  
-![GSAP](https://img.shields.io/badge/GSAP-88CCEA?style=flat&logo=greensock&logoColor=white)  
-
-### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-
-### Tools and Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)  
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
+![GSAP](https://img.shields.io/badge/GSAP-%2388CCEA.svg?style=for-the-badge&logo=greensock&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%23646CFF.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+ 
 
 
 <hr>
@@ -69,7 +65,7 @@
       <!-- Most Used Languages -->
       <td width="50%" valign="top">
         <a href="https://github.com/sujal862">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal862&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal862&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="275px" />
         </a>
       </td>
       <!-- GitHub Stats and Streak Stats -->
