@@ -10,28 +10,20 @@
 
 
 
+-🧑‍💻 I have expertise in Data Structures, Algorithms, and Full Stack Development (MERN Stack).
 
-- I’m currently learning **Data Structure and Algorithms and Full Stack Development.** 
+-💬 Feel free to ask me about Development, DSA, and scalable solutions!
 
-- 💬 Ask me about **Development and Data Structures.**
+-🤝 Looking to contribute to impactful open-source projects.
 
-- 🤝 I’m looking for help with **Open-source contributions**
+-📫 Let’s connect: rajsujal2004@gmail.com
 
-- 📫 Reach me @ rajsujal2004@gmail.com
-
-- ⚡ Fun fact : **I believe creativity and humor make coding more fun! 😄**
+-⚡ Fun fact: Creativity and humor make coding not just better but more fun! 😄
 
 <hr>
 
-## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-raj)
-
-### Social Media and Platforms
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/sujal0592)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sujal_862)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sujalagr20)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujal20/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05CC47?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sujalae706/)
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-raj) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sujal0592) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujal_862) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sujalagr20) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sujal20/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05CC47?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sujalae706/)  
 
 # 💻 My Tech Stack:
 
