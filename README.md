@@ -44,6 +44,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%23646CFF.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-%232E73B8.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-%23C40E34.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Socket.io](https://img.shields.io/badge/Socket.io-%233E8CFF.svg?style=for-the-badge&logo=socket.io&logoColor=white)  
+
  
 
 
