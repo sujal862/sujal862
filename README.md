@@ -1,6 +1,5 @@
 <div>
   <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="sujal862" /> I'm Sujal Raj</h1> 
-<img align="right" alt="coding" width="390" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <div>
 <h3 align="center">  A relentless pursuer of growth and learning. Currently pursuing B.Tech @ JSS Noida. <br> 
 <br>
