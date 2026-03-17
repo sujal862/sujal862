@@ -8,16 +8,18 @@
 
 
 
+* 🧑‍💻 Full Stack Developer (MERN) with strong foundations in Data Structures & Algorithms and growing expertise in AI/LLM systems.
 
--🧑‍💻 I have expertise in Data Structures, Algorithms, and Full Stack Development (MERN Stack).
+* 🤖 Building AI-powered applications using RAG, LangChain, and agent-based workflows.
 
--💬 Feel free to ask me about Development, DSA, and scalable solutions!
+* 💬 Open to discussions on Full Stack Development, DSA, and Generative AI.
 
--🤝 Looking to contribute to impactful open-source projects.
+* 🤝 Interested in contributing to impactful open-source and real-world projects.
 
--📫 Let’s connect: rajsujal2004@gmail.com
+* 📫 Reach me at: [rajsujal2004@gmail.com](mailto:rajsujal2004@gmail.com)
 
--⚡ Fun fact: Creativity and humor make coding not just better but more fun! 😄
+* ⚡ Fun fact: I enjoy turning complex problems into simple, scalable solutions.
+
 
 <hr>
 
