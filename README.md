@@ -110,7 +110,7 @@
       <!-- Most Used Languages -->
       <td width="50%" valign="top">
         <a href="https://github.com/sujal862">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal862&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%" height="275px" />
+          <img src="https://github-readme-stats-sigma-weld-99.vercel.app/api/top-langs/?username=sujal862&theme=highcontrast&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&hide_border=false&layout=compact&langs_count=8" width="100%" height="275px" />
         </a>
       </td>
       <!-- GitHub Stats and Streak Stats -->
@@ -127,7 +127,8 @@
   </table>
 </div>
 
-<a href="https://github.com/sujal862/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal862&theme=high-contrast" alt="Sujal Raj's GitHub Activity Graph" />
-</a>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujal862/sujal862/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujal862/sujal862/output/snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sujal862/sujal862/output/snake.svg" />
+</picture>
